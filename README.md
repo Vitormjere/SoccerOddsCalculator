@@ -35,4 +35,4 @@ Where:
 
 ## Author
 
-Vitor Miranda
+Vitor Miranda Jeremias
