@@ -35,4 +35,4 @@ Where:
 
 ## Author
 
-Vitor Miranda Jeremias
+Vitor Miranda Jeremias — [GitHub](https://github.com/Vitormjere)
